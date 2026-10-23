@@ -1,0 +1,10 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.Text;
+global using System.Linq;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.SqlServer;
+global using EFCoreInventoryManager.Models;
+global using EFCoreInventoryManager.Data;
+global using Microsoft.Extensions.Configuration.Json;
+global using Microsoft.Extensions.Configuration;
